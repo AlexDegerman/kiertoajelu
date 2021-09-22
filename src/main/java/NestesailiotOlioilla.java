@@ -6,7 +6,7 @@ public class NestesailiotOlioilla {
         Scanner lukija = new Scanner(System.in);
         Sailio eka = new Sailio();
         Sailio toka = new Sailio();
-        
+        /* tämä on muokattu paikallisesti */
         while (true) {
             System.out.println("Ensimmäinen: " + eka);
             System.out.println("Toinen: " + toka);
